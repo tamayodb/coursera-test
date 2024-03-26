@@ -18,9 +18,9 @@
 
 * Layout Variations:
 
-- Desktop View: Sections are equally spaced and occupy the entire row, with width adjustments based on browser window size.
-- Tablet View: The layout features two sections sharing a row and a third section taking up a full row below them, optimizing space for different device sizes.
-- Mobile View: Each section is displayed on its own row, maximizing readability and user interaction on smaller screens.
+  - Desktop View: Sections are equally spaced and occupy the entire row, with width adjustments based on browser window size.
+  - Tablet View: The layout features two sections sharing a row and a third section taking up a full row below them, optimizing space for different device sizes.
+  - Mobile View: Each section is displayed on its own row, maximizing readability and user interaction on smaller screens.
 
 * Section Title Region: I ensured consistency by including a title region in each section, positioned at the top right corner across all views using relative and absolute positioning techniques.
 
